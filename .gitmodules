@@ -1,0 +1,3 @@
+[submodule "AdventCode2023/Day7_Advent2023"]
+	path = AdventCode2023/Day7_Advent2023
+	url = git@github.com:MichalPorazko/Day7_Advent2023.git
