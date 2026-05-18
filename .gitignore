@@ -1,0 +1,10 @@
+target/
+project/target/
+.idea/
+*.class
+*.tasty
+*.log
+.bloop/
+.metals/
+.vscode/
+.DS_Store  # macOS specific
