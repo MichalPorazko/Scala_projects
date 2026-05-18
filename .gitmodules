@@ -1,3 +1,9 @@
 [submodule "AdventCode2023/Day7_Advent2023"]
 	path = AdventCode2023/Day7_Advent2023
 	url = git@github.com:MichalPorazko/Day7_Advent2023.git
+[submodule "AdventCode2023/Day3ScalaAdvent2023"]
+	path = AdventCode2023/Day3ScalaAdvent2023
+	url = git@github.com:MichalPorazko/Day3ScalaAdvent2023.git
+[submodule "AdventCode2023/Day8Scala2023"]
+	path = AdventCode2023/Day8Scala2023
+	url = git@github.com:MichalPorazko/Day8Scala2023.git
